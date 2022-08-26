@@ -1,0 +1,22 @@
+Aminoacid: Leu , count: 4
+Aminoacid: Val , count: 3
+Aminoacid: Ser , count: 3
+Aminoacid: Ile , count: 2
+Aminoacid: Phe , count: 2
+Aminoacid: Asp , count: 2
+Aminoacid: Arg , count: 2
+Aminoacid: Gln , count: 1
+Aminoacid: Pro , count: 1
+Aminoacid: Asn , count: 1
+Aminoacid: Ala , count: 1
+Aminoacid: Tyr , count: 0
+Aminoacid: His , count: 0
+Aminoacid: Trp , count: 0
+Aminoacid: Gly , count: 0
+Aminoacid: Thr , count: 0
+Aminoacid: Glu , count: 0
+Aminoacid: Cys , count: 0
+Aminoacid: Met , count: 0
+Aminoacid: Lys , count: 0
+
+Numbers of stops codons: 0
