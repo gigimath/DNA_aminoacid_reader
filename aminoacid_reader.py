@@ -14,7 +14,7 @@ import argparse
 
 my_parser = argparse.ArgumentParser()
 my_parser.version = '1.0'
-my_parser.add_argument('-f','--fileName',type=str, nargs='?',default='dna_string_example.txt', action='store',help='type dataset name')
+my_parser.add_argument('-f','--fileName',type=str, nargs='?',default='dna_string_example.txt', action='store',help='type dna file name')
 
 args = my_parser.parse_args()
 name_file = args.fileName
@@ -83,7 +83,7 @@ dict_aminoacid_count_sorted = {k:v for k, v in list_decrease}
 
 
 if not flag:
-    name_out_file = path_this_dir+os.sep+'output'+os.sep+name_file+'_processed'+'.txt'
+    name_out_file = path_this_dir+os.sep+'output'+os.sep+name_file.split('.')[0]+'_processed'+'.txt'
     log_file = open(name_out_file,"w")
     
     for k,v in dict_aminoacid_count_sorted.items():
