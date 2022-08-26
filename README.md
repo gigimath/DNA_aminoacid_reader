@@ -11,7 +11,9 @@ Executing the program typing:
     python aminoacid_reader.py -f your_dna_file.txt
 
 Otherwise if you want just run the example, just type
+
     python aminoacid_reader.py
+
 It will read automatically the file already inside the input folder.
 
 The program will display the results and also type them in a file inside the output folder
