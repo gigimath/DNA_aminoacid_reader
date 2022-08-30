@@ -19,6 +19,6 @@ It will read automatically the file already inside the input folder.
 The program will display the results and also type them in a file inside the output folder.
 
 
-You can also play interactively with the notebook instead of the .py program
+You can also play interactively with the notebook instead of the .py program.
 The Aminoacid-codons dictionary was copyed from wikipedia page:
 https://it.wikipedia.org/wiki/Codice_genetico
